@@ -20,4 +20,5 @@ public class SpringMemberListControllerV1 {
         mv.addObject("members", members);
         return mv;
     }
+
 }
